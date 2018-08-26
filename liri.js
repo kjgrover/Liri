@@ -1,13 +1,3 @@
-// require("dotenv").config();
-
-
-// var ApiKeys = require("./keys");
-
-
-// console.log(ApiKeys)
-// var client = ApiKeys.Twitter;
-
-// console.log(client)
 
 var env = require('dotenv').config()
 var Twitter = require('twitter');

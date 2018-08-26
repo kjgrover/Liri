@@ -5,7 +5,6 @@ exports.twitter = {
   consumer_secret: process.env.cNqHBcIHXzFa8P0pTVOcR1taKGjbcN65JbkWWOKFnZGoV4ieEF,
   access_token_key: process.env.ixUGoi66Cc2hMxYn5aKPfgtnVRAHf,
   access_token_secret: process.env.	laFrNOYe3gbkY4kcnanN8rQitDhg26BcUIUKJLl2xCH5q
-
 };
 
 exports.spotify = {
